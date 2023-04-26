@@ -1,14 +1,11 @@
 fileFormatVersion: 2
-guid: f4c164cd0909ef84e92f85ca2e8d5b4e
+guid: 3f5f8467cb0acfb41a82e03f6e6dbdec
 ModelImporter:
   serializedVersion: 21300
   internalIDToNameTable:
   - first:
       74: -203655887218126122
-    second: Jump (1)
-  - first:
-      74: 5539831331247536789
-    second: Jump
+    second: Climbing Up Wall
   externalObjects: {}
   materials:
     materialImportMode: 2
@@ -39,18 +36,18 @@ ModelImporter:
     extraUserProperties: []
     clipAnimations:
     - serializedVersion: 16
-      name: Jump
+      name: Climbing Up Wall
       takeName: mixamo.com
       internalID: 0
-      firstFrame: 18
-      lastFrame: 40
+      firstFrame: 0
+      lastFrame: 60
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 0
+      loopTime: 1
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 0
